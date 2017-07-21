@@ -1,0 +1,1 @@
+python -m http.server -runs a server to view page
